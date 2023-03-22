@@ -1,0 +1,30 @@
+擬態選擇器:xxx {
+  屬性: 設定值;
+  屬性: 設定值;
+}
+
+h1 {
+  color: blue;
+}
+
+h1:hover {
+  color: red;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: red;
+  font-size: 20px;
+}
+
+a:active {
+  color: blue;
+}
+
+/*
+  hover 滑鼠停留
+  active 按助不放
+*/

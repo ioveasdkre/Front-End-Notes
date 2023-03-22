@@ -1,0 +1,14 @@
+p {
+  /* 字體 */
+  font-family: verdana;
+  font-size: 18px;
+  /* 行距 font-size * line-height 表示高度 */
+  line-height: 1.5;
+  text-align: left;
+  /* 第一行縮排 font-size * 2 表示兩格 */
+  text-indent: 36px;
+  /* 文字裝飾 underline 下底線  line-through 刪除線*/
+  /* text-decoration: line-through; */
+  /* 字與字的間距 */
+  letter-spacing: 5px;
+}
